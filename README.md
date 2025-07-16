@@ -1,4 +1,4 @@
-# VideoTranscriptions
+# Video Transcriptions
 
 Small project for Youtube Video Transcriptions.
 
