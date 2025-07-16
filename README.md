@@ -20,3 +20,7 @@ Odyssey to the West 02 [Deutsch_German] [JC9rXinV-cI].html)
 [Wie entsteht eine Quelle](Youtube/Die Maus/Wie entsteht eine Quelle.html)
 
 [Wie pflanzt man Wildblumen](Youtube/Die Maus/Wie pflanzt man Wildblumen.html)
+
+## DeiDeis Freakshow
+
+[Grusel-Reaktion - Die unheimlichsten Orte in DE [0H9Mhus1Kr4]](Youtube/DeiDeis Freakshow/Grusel-Reaktion - Die unheimlichsten Orte in DE [0H9Mhus1Kr4].html)
