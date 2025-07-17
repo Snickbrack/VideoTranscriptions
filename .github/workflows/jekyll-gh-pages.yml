@@ -35,12 +35,12 @@ jobs:
         with:
           source: ./
           destination: ./_site
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
       - name: Generate the sitemap
         uses: cicirello/generate-sitemap@v1
         with:
           base-url-path: https://snickbrack.github.io/VideoTranscriptions/
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
 
   # Deployment job
   deploy:
