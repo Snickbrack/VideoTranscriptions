@@ -12,7 +12,7 @@ info ( @ ) kagehub.de
 ## BullKage
 
 {% for page in site.pages %}
-  {% if page.path contains 'Youtube' %}
+  {% if page.path contains 'Youtube/BullKage' %}
   * [{{ page.title }}]({{ site.baseurl }}{{ page.url }})
   {% endif %}
 {% endfor %}
