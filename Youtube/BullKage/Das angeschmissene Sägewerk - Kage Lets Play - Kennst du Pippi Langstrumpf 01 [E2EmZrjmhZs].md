@@ -1,27 +1,23 @@
-<html>
+---
+layout: default
+title: Das angeschmissene Sägewerk - Kage Lets Play - Kennst du Pippi Langstrumpf 01
+---
 
-<head>
-    <title>Das angeschmissene Sägewerk - Kage Lets Play - Kennst du Pippi Langstrumpf 01</title>
-</head>
+# Das angeschmissene Sägewerk - Kage Lets Play - Kennst du Pippi Langstrumpf 01
 
-<body>
-    <h1>
-        Das angeschmissene Sägewerk - Kage Lets Play - Kennst du Pippi Langstrumpf 01
-    </h1>
-    <hr />
-    <p>
-        <br />Das angeschmissene Sägewerk - Kage Lets Play - Kennst du Pippi Langstrumpf 01
-        <br /><br />
-        <br /><a href="https://youtu.be/E2EmZrjmhZs">https://youtu.be/E2EmZrjmhZs</a>
-        <br /><br />#astrid #lindgren #pippi #langstrumpf #kage #bullkage #point #and #click #adventure #lets #play #retro #gameplay #game
-    </p>
-    <hr />
-    <br /><br />
-    <div>
-        <p>
-            Transcription:
-        </p>
-        <pre>
+
+---
+
+<br />Das angeschmissene Sägewerk - Kage Lets Play - Kennst du Pippi Langstrumpf 01
+<br /><br />
+<br /><a href="https://youtu.be/E2EmZrjmhZs">https://youtu.be/E2EmZrjmhZs</a>
+<br /><br />#astrid #lindgren #pippi #langstrumpf #kage #bullkage #point #and #click #adventure #lets #play #retro #gameplay #game
+
+---
+
+## Transcription:
+
+```
 Natürlich diesen
 ...
 Hey,
@@ -764,8 +760,4 @@ Es wäre doch gerne auch dann wieder mit dabei.
 Bis dahin wünsche euch eine gute Zeit.
 Euer Kai.
 Ciao.
-</pre>
-    </div>
-</body>
-
-</html>
+```
