@@ -26,6 +26,9 @@ Odyssey to the West 02 [Deutsch_German] [JC9rXinV-cI].html)
 
 [Da gehts rein - Kage Lets Play - Astrid Lindgrens - Pippi Langstrumpf 02 [KZGjnanqhI4]](Youtube/BullKage/Da gehts rein - Kage Lets Play - Astrid Lindgrens - Pippi Langstrumpf 02 [KZGjnanqhI4].html)
 
+[Das war doch wirklich lustig - Kage Lets Play - Astrid Lindgrens - Pippi Langstrumpf 03 [kklKH_wggEo]](Youtube/BullKage/Das war doch wirklich lustig - Kage Lets Play - Astrid Lindgrens - Pippi Langstrumpf 03 [kklKH_wggEo].html)
+
+
 
 ## Die Maus
 
