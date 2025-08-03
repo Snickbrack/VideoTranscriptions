@@ -13,7 +13,7 @@ info ( @ ) kagehub.de
 
 {% for page in site.pages %}
   {% if page.path contains 'Youtube' %}
-  * [{{ page.title }}]({{ page.url }})
+  * [{{ page.title }}]({{ site.baseurl }}{{ page.url }})
   {% endif %}
 {% endfor %}
 
