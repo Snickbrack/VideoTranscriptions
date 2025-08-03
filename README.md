@@ -12,7 +12,7 @@ info ( @ ) kagehub.de
 ## BullKage
 
 {% for page in site.pages %}
-  {% if page.path contains 'Youtube' and page.path ends with '.html' %}
+  {% if page.path contains 'Youtube' %}
   * [{{ page.title }}]({{ page.url }})
   {% endif %}
 {% endfor %}
