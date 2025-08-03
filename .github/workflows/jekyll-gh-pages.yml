@@ -31,7 +31,7 @@ jobs:
       - name: Generate sitemap
         uses: guimauvedigital/generate-sitemap@v1
         with:
-          base-url-path: https://snickbrack.github.io/VideoTranscriptions/
+          base_url: https://snickbrack.github.io/VideoTranscriptions/
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Build with Jekyll
@@ -39,10 +39,6 @@ jobs:
         with:
           source: ./
           destination: ./_site
-      - name: Simple Smoke Test
-        uses: prism-be/actions-smoke-test@v1.0.0
-        with:
-          sitemap: 'https://snickbrack.github.io/VideoTranscriptions/sitemap.xml'
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
 
@@ -57,3 +53,7 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+      - name: Simple Smoke Test
+        uses: prism-be/actions-smoke-test@v1.0.0
+        with:
+          sitemap: 'https://snickbrack.github.io/VideoTranscriptions/sitemap.xml'
