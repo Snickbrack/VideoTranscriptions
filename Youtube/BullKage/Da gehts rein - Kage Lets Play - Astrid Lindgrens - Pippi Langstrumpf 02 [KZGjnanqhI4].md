@@ -1,13 +1,12 @@
-<html>
+---
+layout: default
+title: Da gehts rein - Kage Lets Play - Astrid Lindgrens - Pippi Langstrumpf 02
+---
 
-<head>
-    <title>Da gehts rein - Kage Lets Play - Astrid Lindgrens - Pippi Langstrumpf 02</title>
-</head>
+# Da gehts rein - Kage Lets Play - Astrid Lindgrens - Pippi Langstrumpf 02
 
-<body>
-    <h1>
-        Da gehts rein - Kage Lets Play - Astrid Lindgrens - Pippi Langstrumpf 02
-    </h1>
+
+  </h1>
     <hr />
     <p>
         <br />Da gehts rein - Kage Lets Play - Astrid Lindgrens - Pippi Langstrumpf 02
