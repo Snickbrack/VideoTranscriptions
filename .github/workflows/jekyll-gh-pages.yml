@@ -21,6 +21,11 @@ concurrency:
   group: "pages"
   cancel-in-progress: false
 
+collections:
+  Youtube:
+     output: true
+     sort_by: title
+
 jobs:
   # Build job
   build:
